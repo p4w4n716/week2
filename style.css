@@ -1,0 +1,29 @@
+body{
+    background-color: aqua;
+}
+
+p{
+    background: pink;
+    text-shadow: 0ch;
+    color: blue;
+}
+
+th, td{
+    border: 2px solid black;
+    text-align: center;
+    padding: 12px;
+    
+}
+
+.table table tr th{
+    color: red;
+    background-color: yellow;
+}
+
+.table table{
+    border-collapse: collapse;
+    width: 80%;
+    margin-top: 20px;
+    text-align: center;
+    
+}
