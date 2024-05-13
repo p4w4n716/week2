@@ -23,7 +23,7 @@ th, td{
 .table table{
     border-collapse: collapse;
     width: 80%;
-    margin-top: 20px;
+    margin: auto;
     text-align: center;
     
 }
